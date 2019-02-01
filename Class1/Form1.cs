@@ -28,7 +28,7 @@ namespace Class1
             {
                 int A = Convert.ToInt16(textBox1.Text);
                 int B = Convert.ToInt16(textBox2.Text);
-                textBox3.Text = ((A / B) + (A % B) / 2.0).ToString();
+                textBox3.Text = ((A / Ba) + (A % B) / 2.0).ToString();
             }
             catch(Exception x)
             {
