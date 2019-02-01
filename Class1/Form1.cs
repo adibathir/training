@@ -26,30 +26,23 @@ namespace Class1
         private void button_Press_Click(object sender, EventArgs e)
         {
             int count = 1;
-            string inputA = string.Empty;
-            string inputB = string.Empty;
-            int ans=0;
-            int ans2=0;
-            string ans3 = string.Empty;
+            string ans1 = string.Empty;
+            string ans2 = string.Empty;
             if (input1[0] == 'A')
+            {
                 while (input1[count] != 'B')
                 {
-                    inputA += input1[count];
-                    ans = Convert.ToInt16(inputA);
+                    ans1 += input1[count];
                     count++;
                 }
-
-            count++;
-
+                count++;
                 while (input1[count] != 'C')
                 {
-                inputB += input1[count];
-                ans2 = Convert.ToInt16(inputB);
-                count++;
+                    ans2 += input1[count];
+                    count++;
                 }
-
-            ans3 = (ans + ans2).ToString();
-            MessageBox.Show(ans3);
+            }
+            MessageBox.Show((Convert.ToInt64(ans1) + Convert.ToInt64(ans2)).ToString());
         }
     }
 }
