@@ -1,0 +1,9 @@
+c:\users\mzulfako\documents\visual studio 2015\Projects\Class1\Class1\bin\Debug\Class1.exe.config
+c:\users\mzulfako\documents\visual studio 2015\Projects\Class1\Class1\bin\Debug\Class1.exe
+c:\users\mzulfako\documents\visual studio 2015\Projects\Class1\Class1\bin\Debug\Class1.pdb
+c:\users\mzulfako\documents\visual studio 2015\Projects\Class1\Class1\obj\Debug\Class1.csprojResolveAssemblyReference.cache
+c:\users\mzulfako\documents\visual studio 2015\Projects\Class1\Class1\obj\Debug\Class1.Form_Training.resources
+c:\users\mzulfako\documents\visual studio 2015\Projects\Class1\Class1\obj\Debug\Class1.Properties.Resources.resources
+c:\users\mzulfako\documents\visual studio 2015\Projects\Class1\Class1\obj\Debug\Class1.csproj.GenerateResource.Cache
+c:\users\mzulfako\documents\visual studio 2015\Projects\Class1\Class1\obj\Debug\Class1.exe
+c:\users\mzulfako\documents\visual studio 2015\Projects\Class1\Class1\obj\Debug\Class1.pdb
